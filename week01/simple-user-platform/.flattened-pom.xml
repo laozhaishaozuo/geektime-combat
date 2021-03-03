@@ -9,6 +9,7 @@
   <modules>
     <module>simple-web-mvc</module>
     <module>simple-user-web</module>
+    <module>simple-user-db</module>
   </modules>
   <properties>
     <maven.flatten.version>1.2.5</maven.flatten.version>
